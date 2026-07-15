@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **s0phiasoares/s0phiasoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
