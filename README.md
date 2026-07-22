@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="" alt="spotify logo"  />
 </div>
 
-###
 
 <br clear="both">
 
