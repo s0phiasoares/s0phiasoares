@@ -47,5 +47,3 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/s0phiasoares/s0phiasoares/snake-output/snake.svg" alt="Snake animation" />
-###
