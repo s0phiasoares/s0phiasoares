@@ -1,13 +1,5 @@
 <h6 data-importer="text" align="left">Hi! 👋 I'm Sophia I'm a programming student 💻 in São Paulo, Brazil, passionate about technology and always excited to learn something new.<br>________________________________________________________________________________________________________________<br><br>🌱 Currently learning:<br><br>Python<br> Data Analysis<br>SQL<br>Machine Learning<br>Web Development<br>Cybersecurity Fundamentals<br><br>🎯 My interests:<br><br>* 📊 Data Science<br>* 🤖 Artificial Intelligence<br>* 🔐 Cybersecurity<br>* 💡 Problem Solving<br>* 🚀 Real-world project development<br><br>I believe that each project is an opportunity to learn, improve, and become a better developer. I'm always looking for new challenges and opportunities to grow in the world of technology.<br><br>📫 Let's connect!<br><br>Thank you for visiting my profile! Feel free to explore my repositories and follow my learning journey. 🚀</h6>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/s0phiasoares/s0phiasoares/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/s0phiasoares/s0phiasoares/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYyZTAzbzZ6cXNyNGd5cHJ2NTBwZzVzcmszN3g3Zm5zdmlzemk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umLuwaOhouROw/giphy.gif"  />
 
