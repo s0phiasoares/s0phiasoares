@@ -154,16 +154,12 @@ Learning about security and technology.
 </div>
 
 ---
+---
+## 🐍 Minhas contribuições
 
-## 📈 `GITHUB ACTIVITY`
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" /> </p>
+---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=s0phiasoares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0phiasoares&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 
 <div align="center">
