@@ -14,7 +14,7 @@
 
 </div>
 
-<img data-importer="image" align="center" height="150" src="https://i.pinimg.com/736x/8f/50/cd/8f50cd0678ba723e215b174bbec3a69c.jpg"/>
+<img data-importer="image" align="center" height="350" src="https://i.pinimg.com/736x/8f/50/cd/8f50cd0678ba723e215b174bbec3a69c.jpg"/>
 
 
 <div align="center">
