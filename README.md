@@ -13,7 +13,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-s0phiasoares-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/s0phiasoares)
 
 </div>
-
+---
+<img data-importer="image" align="center" height="50" src="https://i.pinimg.com/736x/8f/50/cd/8f50cd0678ba723e215b174bbec3a69c.jpg"/>
 ---
 
 <div align="center">
