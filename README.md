@@ -6,7 +6,7 @@
 
 **Data Science • Artificial Intelligence • Cybersecurity**
 
-🇧🇷 **São Paulo, Brazil**
+ **São Paulo, Brazil 🇧🇷**
 
 <br>
 
