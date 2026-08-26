@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Sophia Soares
+# ✦ Sophia Soares Barbosa
 
 ### `💻 Programming Student`
 
