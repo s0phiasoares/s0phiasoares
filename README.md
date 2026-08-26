@@ -14,7 +14,9 @@
 
 </div>
 
-<img data-importer="image" align="center" height="350" src="https://i.pinimg.com/736x/56/96/b6/5696b663b2b272c09520623599c3f6ee.jpg"/>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/56/96/b6/5696b663b2b272c09520623599c3f6ee.jpg" alt="Setup Lofi com Gato" width="100%">
+</p>
 
 
 <div align="center">
