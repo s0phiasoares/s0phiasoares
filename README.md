@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/56/96/b6/5696b663b2b272c09520623599c3f6ee.jpg" alt="Setup Lofi com Gato" width="100%">
+  <img src="https://i.pinimg.com/736x/56/96/b6/5696b663b2b272c09520623599c3f6ee.jpg" alt="Setup Lofi com Gato" width="65%">
 </p>
 
 
