@@ -165,34 +165,6 @@ Learning about security and technology.
 
 </div>
 
----
-
-## 🌱 `MY JOURNEY`
-
-```text
-                         ✦ TECHNOLOGY ✦
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-          🐍 Python        🌐 Web Dev       🔐 Security
-              │                │                │
-              ▼                ▼                │
-        📊 Data Analysis    🚀 Projects       │
-              │                │                │
-              ▼                └───────┬────────┘
-        🧠 Machine Learning             │
-              │                         │
-              └────────────┬────────────┘
-                           ▼
-                    📊 DATA SCIENCE
-                           │
-                           ▼
-                    🤖 ARTIFICIAL
-                    INTELLIGENCE
-```
-
----
 
 <div align="center">
 
