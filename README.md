@@ -162,7 +162,7 @@ A web application designed to help users organize their studies, create plans an
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <p align="center">
 
