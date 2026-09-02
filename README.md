@@ -36,53 +36,29 @@ I believe the best way to learn programming is by **building projects, experimen
 
 ---
 
-## 🧠 My Tech Stack
 
-### 🐍 Programming
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,html,css">
+<div align="center">
+
+### 💻 Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,sqlite,mysql,postgres,jupyter,linux,bash,git,github,vscode&perline=7" />
 </p>
 
-### 📊 Data Science
+### 📊 Data Science & Machine Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,jupyter">
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-<p align="left">
+</div>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres">
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flask,html,css,js">
-</p>
-
-### 🔐 Cybersecurity
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash">
-</p>
-
----
 
 ## 📚 Currently Learning
 
@@ -138,17 +114,7 @@ A web application designed to help users organize their studies, create plans an
 
 </div>
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=s0phiasoares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0phiasoares&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
 
 ---
 
@@ -170,31 +136,9 @@ A web application designed to help users organize their studies, create plans an
 
 </p>
 
----
 
-## 🎯 My Roadmap
 
-```text
-                    DATA SCIENCE
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-     Python           SQL            Statistics
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                    Data Analysis
-                         │
-                ┌────────┴────────┐
-                │                 │
-          Visualization     Machine Learning
-                │                 │
-                └────────┬────────┘
-                         │
-                  Artificial Intelligence
-                         │
-                    Real Projects
-```
+
 
 ---
 
