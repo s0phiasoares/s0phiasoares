@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## 🌌 `WELCOME TO MY PROFILE`
+## 🌟 `WELCOME TO MY PROFILE`
 
 ### *Learning today. Building tomorrow.*
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## 👩‍💻 About Me
+## 👩🏽‍💻 About Me
 
 I'm **Sophia**, a programming student passionate about technology.
 
@@ -158,7 +158,7 @@ Learning about security and technology.
 
 ---
 ---
-## 👩🏽‍💻🐍 MY CONTRIBUTIONS
+## 🐍👩🏽‍💻 MY CONTRIBUTIONS
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" /> </p>
 
