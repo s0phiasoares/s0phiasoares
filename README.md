@@ -18,12 +18,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/56/96/b6/5696b663b2b272c09520623599c3f6ee.jpg" width="75%" alt="Lofi setup">
-</p>
-
----
-
 ## 👋 About Me
 
 Hi! I'm **Sophia**, a programming student passionate about technology, data and problem solving.
@@ -58,6 +52,11 @@ I believe the best way to learn programming is by **building projects, experimen
 </p>
 
 </div>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDFtNHcwYXlsczd6aGk5emJyaHVmdHRidmIzOTJ2cjB1YmJuMWR2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="25%" alt="Lofi setup">
+</p>
 
 
 ## 📚 Currently Learning
