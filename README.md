@@ -139,21 +139,7 @@ A web application designed to help users organize their studies, create plans an
 
 
 
----
 
-## 💡 Philosophy
-
-<div align="center">
-
-### **Learn. Build. Improve. Repeat.**
-
-Every project is another step toward becoming a better developer.
-
-<br>
-
-**Always learning. Always building. 🚀**
-
-</div>
 
 ---
 
