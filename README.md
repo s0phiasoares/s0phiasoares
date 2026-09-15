@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me 🎀
 
 Hi! I'm **Sophia**, a programming student passionate about technology, data and problem solving.
 
@@ -55,7 +55,7 @@ I believe the best way to learn programming is by **building projects, experimen
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDFtNHcwYXlsczd6aGk5emJyaHVmdHRidmIzOTJ2cjB1YmJuMWR2ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="25%" alt="Lofi setup">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l6ZjdqZm9kMjZuN2pka3g0ZzU3aDIwaWhmM3R2a3JoMzUzcnVkeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" width="25%" alt="Lofi setup">
 </p>
 
 
