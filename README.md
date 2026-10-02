@@ -1,12 +1,12 @@
 <div align="center">
 
-# Sophia Soares Barbosa 👩🏽‍💻🌟
+# Sophia Soares Barbosa
 
-### `Programming Student`
+### Estudante de Programação | Tecnologia e Dados
 
-**Data Science · Artificial Intelligence · Cybersecurity**
+**Python · Ciência de Dados · Inteligência Artificial · Cibersegurança · Desenvolvimento Web**
 
-📍 São Paulo, Brazil 🇧🇷
+São Paulo, Brasil 🇧🇷
 
 <br>
 
@@ -18,106 +18,152 @@
 
 ---
 
-## 👋 About Me 🎀
+## Sobre Mim
 
-Hi! I'm **Sophia**, a programming student passionate about technology, data and problem solving.
+Sou **estudante de programação**, com interesse em tecnologia, dados, desenvolvimento de software e resolução de problemas.
 
-I'm currently building my foundations in programming while exploring **Data Science, Artificial Intelligence, Cybersecurity and Web Development**.
+Atualmente, estou desenvolvendo minha base técnica por meio de **projetos práticos e aprendizado contínuo**, com foco em **Python, Ciência de Dados, Inteligência Artificial, Cibersegurança e Desenvolvimento Web**.
 
-I believe the best way to learn programming is by **building projects, experimenting with ideas and continuously improving**.
+Gosto de transformar ideias em aplicações práticas e utilizar a programação para desenvolver soluções para diferentes tipos de problemas.
 
-> **Learning today. Building tomorrow.**
+Meu objetivo é continuar aprimorando minhas habilidades técnicas e construir projetos que demonstrem **raciocínio lógico, capacidade de resolução de problemas e desenvolvimento de software**.
+
+> **Aprender continuamente. Construir com propósito. Evoluir sempre.**
 
 ---
 
+## Tecnologias e Ferramentas
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Technologies
+### Programação e Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,sqlite,mysql,postgres,jupyter,linux,bash,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,git,github,vscode,linux,&perline=10" />
 </p>
 
-### 📊 Data Science & Machine Learning
+### Bancos de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&perline=3" />
+</p>
+
+### Ciência de Dados e Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-</div>
+---
+
+## Atualmente Estudando
+
+### Python e Ciência de Dados
+
+* Programação em Python
+* Análise de dados
+* NumPy e Pandas
+* Visualização de dados
+* Estatística
+* Análise exploratória de dados
+* Fundamentos de Machine Learning
+
+### Desenvolvimento de Software
+
+* Flask
+* APIs REST
+* SQL
+* Bancos de dados
+* Desenvolvimento Web
+* Aplicações CRUD
+
+### Cibersegurança
+
+* Linux
+* Fundamentos de redes
+* Fundamentos de cibersegurança
+* Ferramentas de linha de comando
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l6ZjdqZm9kMjZuN2pka3g0ZzU3aDIwaWhmM3R2a3JoMzUzcnVkeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" width="25%" alt="Lofi setup">
-</p>
 
+## Projetos em Destaque
 
-## 📚 Currently Learning
+### 📚 StudyPath
+
+**Aplicação Web para organização de estudos**
+
+O StudyPath é uma aplicação desenvolvida para ajudar usuários a organizar seus estudos, criar planejamentos e acompanhar seu progresso. O projeto foi desenvolvido com o apoio de ferramentas de Inteligência Artificial, utilizadas como suporte durante o processo de desenvolvimento, aprendizado e resolução de problemas.
+
+**Tecnologias:**
+
+`Python` `Flask` `REST API` `SQLite`
+
+<a href="https://github.com/s0phiasoares/study.app">
+  <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🌱 A Terra Pede Socorro
+
+**Quiz interativo sobre conscientização ambiental**
+
+Projeto educacional desenvolvido para um trabalho escolar apresentado no evento CIARTEC, com o objetivo de abordar questões ambientais de forma interativa. O projeto conta com diferentes níveis de dificuldade, sistema de pontuação, vidas, cronômetro e ranking.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript` `LocalStorage`
+
+<a href="https://github.com/s0phiasoares/Quiz---A-Terra-pede-socorro">
+  <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 📚 Biblioteca CRUD
+
+**Sistema de gerenciamento de biblioteca**
+
+Aplicação desenvolvida para praticar operações CRUD, consultas SQL e gerenciamento de banco de dados utilizando Python.
+
+**Tecnologias:**
+
+`Python` `SQLite` `SQL`
+
+---
+
+## Áreas de Desenvolvimento
+
+Atualmente, estou concentrando meus estudos em:
 
 ```text
-Python
- ├── Data Analysis
- ├── NumPy
+Programação
+ ├── Python
+ ├── JavaScript
+ └── Raciocínio Lógico
+
+Ciência de Dados
+ ├── Análise de Dados
+ ├── Estatística
  ├── Pandas
- ├── Data Visualization
- └── Statistics
+ └── Machine Learning
 
-Data Science
- ├── Machine Learning
- ├── Data Exploration
- └── Predictive Models
-
-Development
+Desenvolvimento
  ├── Flask
- ├── REST APIs
+ ├── APIs REST
  ├── SQL
- └── Web Development
+ └── Aplicações Web
 
-Cybersecurity
+Cibersegurança
  ├── Linux
- ├── Networking
- └── Security Fundamentals
+ ├── Redes
+ └── Fundamentos de Segurança
 ```
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
-
-### 📚 StudyPath
-
-**Study planning web application**
-
-A web application designed to help users organize their studies, create plans and track their progress.
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-
-<br><br>
-
-<a href="https://github.com/s0phiasoares/study.app">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7B68EE?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-
-
----
-
-## 🔥 Contribution Activity
+## Atividade no GitHub
 
 <div align="center">
 
@@ -127,44 +173,30 @@ A web application designed to help users organize their studies, create plans an
 
 ---
 
-## 🐍 Contribution
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
-
-</p>
-
-
-
-
-
-
-
----
-
-## 🌐 Connect With Me
+## Contato
 
 <div align="center">
 
 <a href="https://github.com/s0phiasoares">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-s0phiasoares-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+
+
+<a href="mailto:sophia28.soares@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=s0phiasoares&style=for-the-badge&color=7B68EE&label=PROFILE+VIEWS">
+**Sophia Soares Barbosa**
 
-<br><br>
+Estudante de Programação · Ciência de Dados · IA · Cibersegurança
 
-### ✦ Sophia Soares Barbosa ✦
-
-`Data Science` · `Artificial Intelligence` · `Cybersecurity`
-
-🇧🇷 **São Paulo, Brazil**
+São Paulo, Brasil 🇧🇷
 
 </div>
