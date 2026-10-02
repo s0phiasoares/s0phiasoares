@@ -105,19 +105,20 @@ O StudyPath é uma aplicação desenvolvida para ajudar usuários a organizar se
 
 ---
 
-### 🌱 A Terra Pede Socorro
+### 🌎 Guia de Países
 
-**Quiz interativo sobre conscientização ambiental**
+**Aplicação Web para consulta de informações sobre países**
 
-Projeto educacional desenvolvido para um trabalho escolar apresentado no evento CIARTEC, com o objetivo de abordar questões ambientais de forma interativa. O projeto conta com diferentes níveis de dificuldade, sistema de pontuação, vidas, cronômetro e ranking.
+Projeto desenvolvido como parte de um trabalho escolar apresentado no evento CIARTEC, com o objetivo de consultar e apresentar informações de diferentes países por meio de uma API externa. A aplicação permite pesquisar países e visualizar dados como nome, capital, população, região e bandeira, utilizando uma interface simples e interativa.
 
 **Tecnologias:**
 
-`HTML` `CSS` `JavaScript` `LocalStorage`
+`HTML` `CSS` `JavaScript` `REST API`
 
-<a href="https://github.com/s0phiasoares/Quiz---A-Terra-pede-socorro">
+<a href="https://github.com/s0phiasoares/guia-de-pa-ses">
   <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 
 ---
 
