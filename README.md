@@ -93,6 +93,8 @@ Meu objetivo é continuar aprimorando minhas habilidades técnicas e construir p
 
 **Aplicação Web para organização de estudos**
 
+-Projeto em desenvolvimento 
+
 O StudyPath é uma aplicação desenvolvida para ajudar usuários a organizar seus estudos, criar planejamentos e acompanhar seu progresso. O projeto foi desenvolvido com o apoio de ferramentas de Inteligência Artificial, utilizadas como suporte durante o processo de desenvolvimento, aprendizado e resolução de problemas.
 
 **Tecnologias:**
